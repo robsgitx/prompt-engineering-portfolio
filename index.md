@@ -1,6 +1,6 @@
 # My Prompt Engineering Portfolio
 
-Hi, I’m [Your Name]!  
+Hi, I’m Rob!  
 I specialize in refining prompts to make AI outputs more useful, reliable, and aligned with business needs.  
 
 ## Featured Projects
@@ -9,4 +9,4 @@ I specialize in refining prompts to make AI outputs more useful, reliable, and a
 - [Data Summarization Prompt](data-summary.md)
 
 ---
-📫 Contact me: [LinkedIn] | [Email] | [GitHub]
+📫 Contact me: [LinkedIn] | robsemailway@gmail.com | [GitHub]
